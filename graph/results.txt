@@ -1,0 +1,71 @@
+===================================
+
+test1.txt
+
+    --------Component 1--------
+    0 4 6 5 7 8 3 2 1 
+    ------End component 1------
+    Number of components: 1
+
+===================================
+
+test2.txt
+
+    --------Component 1--------
+    0 6 4 2 8 3 1 5 7 
+    ------End component 1------
+    Number of components: 1
+
+===================================
+
+test3.txt
+
+    --------Component 1--------
+    0 1 5 3 8 2 7 6 9 10 4 12 11 
+    ------End component 1------
+    Number of components: 1
+
+===================================
+
+test4.txt
+
+    --------Component 1--------
+    0 7 4 9 6 2 
+    ------End component 1------
+
+    --------Component 2--------
+    1 8 3 5 
+    ------End component 2------
+    Number of components: 2
+
+===================================
+
+test5.txt
+
+    --------Component 1--------
+    0 9 8 
+    ------End component 1------
+
+    --------Component 2--------
+    1 7 5 4 6 2 3 
+    ------End component 2------
+    Number of components: 2
+
+===================================
+
+test6.txt
+
+    --------Component 1--------
+    0 3 5 
+    ------End component 1------
+
+    --------Component 2--------
+    1 4 6 
+    ------End component 2------
+
+    --------Component 3--------
+    2 7 8 
+    ------End component 3------
+    Number of components: 3
+
+===================================
